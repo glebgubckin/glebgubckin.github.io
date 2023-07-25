@@ -1,0 +1,1 @@
+import{c as r}from"./chunks/index.e3b0c442.36b0d886.js";import{j as s}from"./chunks/jsx-runtime.bef5f3fb.js";import"./chunks/index.619de4d5.js";const o=({title:e,text:t})=>s.exports.jsxs("div",{className:`${r.wrapper} ${r.wrapper__1}`,children:[s.exports.jsx("span",{className:r.title,children:e}),s.exports.jsx("p",{children:t})]});export{o as default};

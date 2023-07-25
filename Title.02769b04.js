@@ -1,0 +1,1 @@
+import{a as s}from"./chunks/index.e3b0c442.36b0d886.js";import{j as e}from"./chunks/jsx-runtime.bef5f3fb.js";import"./chunks/index.619de4d5.js";const l=({title:t})=>e.exports.jsx("div",{className:s.title,children:e.exports.jsx("div",{className:s.wrapper,children:e.exports.jsx("h2",{className:s.text,children:t})})});export{l as default};
